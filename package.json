@@ -1,0 +1,23 @@
+{
+  "name": "smtp_email_node.js_with_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwa000/SMTP_Email_node.js_with_html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishwa000/SMTP_Email_node.js_with_html/issues"
+  },
+  "homepage": "https://github.com/Vishwa000/SMTP_Email_node.js_with_html#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
